@@ -7,6 +7,6 @@
 <title>Pagina Ppal modificada</title>
 </head>
 <body>
-<h1>Lunes 6 de Junio</h1>
+<h1>Lunes 6 de Junio-</h1>
 </body>
 </html>
