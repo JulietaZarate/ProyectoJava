@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+
+* {
+	box-sizing: border-box;
+	margin:0;
+	padding:0;
+}
+.navbar-brand{
+	margin-top: -45px;
+   margin-bottom: -50px;
+}
+
+img{
+	cursor: pointer;
+	max-width:  40%;
+ 	max-height: 40%;
+ 	margin: 0px;
+}
+@media (min-width: 700px) { 
+            .navbar{
+                    text-align: center;
+                	  }
+}
+
+
