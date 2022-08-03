@@ -3,11 +3,10 @@
 * {
 	box-sizing: border-box;
 	margin:0;
-	padding:0;
-}
+	padding:0;}
 .navbar-brand{
 	margin-top: -45px;
-   margin-bottom: -50px;
+ 	margin-bottom: -50px;
 }
 
 img{
@@ -19,7 +18,18 @@ img{
 @media (min-width: 700px) { 
             .navbar{
                     text-align: center;
-                	  }
+             	  }
 }
 
+.carousel{
+	background-color: #e3f2fd;
+}
+.carousel-item .img-fluid {
+  width:100%;
+  height:80%;
+}
+.carousel-slide {
+  display: inline-flex;
+  height: 310px;
+}
 
